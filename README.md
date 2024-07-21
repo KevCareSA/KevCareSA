@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm KevCare</h1>
-<h3 align="center">An aspiring software developer with a love for learning and innovation/h3>
+<h3 align="center">An aspiring software developer with a love for learning and innovation </h3>
 
 <div align="center">
   <img alt="Coding" width="600" src="https://wallpapercave.com/wp/wp3988338.jpg" alt="kevcaresa" />

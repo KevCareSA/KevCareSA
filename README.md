@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm KevCare</h1>
-<h3 align="center">A passionate Software Developer newbie from South Africa</h3>
+<h3 align="center">An aspiring software developer with a love for learning and innovation/h3>
 
 <div align="center">
   <img alt="Coding" width="600" src="https://wallpapercave.com/wp/wp3988338.jpg" alt="kevcaresa" />
@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **C, Python, JavaScript, and React**
 - 💬 Ask me about **C**
 - 📫 How to reach me **kev.mkbn2@gmail.com**
-- ⚡ Fun fact **I am actually good at human psychology and understanding what humans want and need at any given moment.**
+- ⚡ Fun fact **I can write code that bugs can't find!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

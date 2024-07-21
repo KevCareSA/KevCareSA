@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm KevCare</h1>
 <h3 align="center">A passionate Software Developer newbie from South Africa</h3>
 
-<img align="right" alt="Coding" width="400" src="https://yourimageurl.com/yourimage.png">
+<img src="https://komarev.com/ghpvc/?username=kevcaresa&label=Profile%20views&color=0e75b6&style=flat" alt="kevcaresa" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kevcaresa&label=Profile%20views&color=0e75b6&style=flat" alt="kevcaresa" />

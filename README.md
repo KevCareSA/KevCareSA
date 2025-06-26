@@ -15,8 +15,8 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **C, Python, JavaScript, and React**
-- 💬 Ask me about **C**
+- 🌱 I’m currently learning **C++, Python, JavaScript, and React**
+- 💬 Ask me about **c++, React, Python and Javascript**
 - 📫 How to reach me **kev.mkbn2@gmail.com**
 - ⚡ Fun fact **I can write code that bugs can't find!**
 

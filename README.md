@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm KevCare</h1>
+<h1 align="center">Hi there 👋, I am KevCare</h1>
 <h3 align="center">An aspiring software developer with a love for learning and innovation </h3>
 
 <div align="center">
@@ -16,7 +16,7 @@
 </p>
 
 - 🌱 I’m currently learning **C++, Python, JavaScript, and React**
-- 💬 Ask me about **c++, React, Python and Javascript**
+- 💬 Ask me about **C++, React, Python and Javascript**
 - 📫 How to reach me **kev.mkbn2@gmail.com**
 - ⚡ Fun fact **I can write code that bugs can't find!**
 

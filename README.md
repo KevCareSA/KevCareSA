@@ -1,5 +1,9 @@
-<h1 align="center">Hi there 👋, I am KevCare</h1>
-<h3 align="center">An aspiring software developer with a love for learning and innovation </h3>
+<h1 align="center">👋 Hey there, I’m KevCare!</h1>
+<h3 align="center">🚀 Aspiring Software Developer | 🧠 Lifelong Learner | 💡 Innovation Enthusiast</h3>
+<p align="center">
+  Passionate about building cool things with code, solving real-world problems, and sipping coffee while debugging 😄.
+</p>
+
 
 <div align="center">
   <img alt="Coding" width="600" src="https://wallpapercave.com/wp/wp3988338.jpg" alt="kevcaresa" />

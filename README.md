@@ -19,10 +19,15 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **C++, Python, JavaScript, Java, C# and React**
-- 💬 Ask me about **C++, React, Python and Javascript**
-- 📫 How to reach me **kev.mkbn2@gmail.com**
-- ⚡ Fun fact **I can write code that bugs can't find!**
+<div align="center">
+
+- 🌱 Currently diving into: **C++, Python, JavaScript, Java, C#, and React**  
+- 💬 Let’s chat about: **C++, React, Python, or JavaScript** – I’m always up for a good dev talk!  
+- 📫 Reach me at: **kev.mkbn2@gmail.com**  
+- ⚡ Fun fact: *I write code so smooth, even bugs give up trying!*
+
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

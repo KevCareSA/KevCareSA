@@ -19,14 +19,12 @@
   </a>
 </p>
 
-<div align="center">
 
-- 🌱 Currently diving into: **C++, Python, JavaScript, Java, C#, and React**  
-- 💬 Let’s chat about: **C++, React, Python, or JavaScript** – I’m always up for a good dev talk!  
-- 📫 Reach me at: **kev.mkbn2@gmail.com**  
+- 🌱 Currently diving into: **C++, Python, JavaScript, Java, C#, and React**
+- 💬 Let’s chat about: **C++, React, Python, or JavaScript** – I’m always up for a good dev talk!
+- 📫 Reach me at: **kev.mkbn2@gmail.com**
 - ⚡ Fun fact: *I write code so smooth, even bugs give up trying!*
 
-</div>
 
 
 <h3 align="left">Connect with me:</h3>

@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I’m KevCare!</h1>
-<h3 align="center">🚀 Aspiring Software Developer | 🧠 Lifelong Learner | 💡 Innovation Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Software And Systems Developer | 🧠 Lifelong Learner | 💡 Innovation Enthusiast</h3>
 <p align="center">
   Passionate about building cool things with code, solving real-world problems, and sipping coffee while debugging 😄.
 </p>
